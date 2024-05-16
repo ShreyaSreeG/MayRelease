@@ -1,6 +1,7 @@
 public class demo{
    public void getdemo(){
       system.debug('Hello GitHub');
+      system.debug('Hello there');
    }
    public void doSum(){
 	integer a =10;
